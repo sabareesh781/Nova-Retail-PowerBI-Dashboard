@@ -1,0 +1,121 @@
+ProductID,ProductName,Category,SubCategory,UnitCost,UnitPrice
+P001,Laptops Product 01,Technology,Laptops,557.25,773.26
+P002,Laptops Product 02,Technology,Laptops,462.29,669.52
+P003,Laptops Product 03,Technology,Laptops,436.23,636.79
+P004,  Laptops Product 04  ,Technology,Laptops,518.37,619.09
+P005,Laptops Product 05,Technology,Laptops,435.42,631.5
+P006,Laptops Product 06,Technology,Laptops,470.1,707.84
+P007,Laptops Product 07,Technology,Laptops,546.34,780.87
+P008,Laptops Product 08,Technology,Laptops,467.77,670.58
+P009,Laptops Product 09,Technology,Laptops,576.57,684.17
+P010,Laptops Product 10,Technology,Laptops,475.5,591.46
+P011,Monitors Product 01,Technology,Monitors,164.63,238.21
+P012,Monitors Product 02,Technology,Monitors,169.08,233.04
+P013,Monitors Product 03,Technology,Monitors,160.28,193.38
+P014,Monitors Product 04,Technology,Monitors,157.68,235.55
+P015,Monitors Product 05,Technology,Monitors,176.13,229.18
+P016,Monitors Product 06,Technology,Monitors,186.44,219.21
+P017,Monitors Product 07,Technology,Monitors,156.96,194.95
+P018,Monitors Product 08,technology,Monitors,197.2,282.48
+P019,Monitors Product 09,Technology,Monitors,176.98,203.88
+P020,Monitors Product 10,Technology,Monitors,153.14,215.04
+P021,Phones Product 01,Technology,Phones,357.57,543.4
+P022,Phones Product 02,Technology,Phones,403.77,536.59
+P023,Phones Product 03,Technology,Phones,401.94,619.05
+P024,Phones Product 04,Technology,Phones,367.32,516.82
+P025,Phones Product 05,Technology,Phones,422.24,527.58
+P026,Phones Product 06,Technology,Phones,418.39,497.47
+P027,Phones Product 07,Technology,Phones,389.81,570.34
+P028,Phones Product 08,Technology,Phones,385.75,520.07
+P029,Phones Product 09,Technology,Phones,386.08,467.41
+P030,Phones Product 10,Technology,Phones,337.87,425.03
+P031,Accessories Product 01,Technology,Accessories,43.97,58.34
+P032,Accessories Product 02,Technology,Accessories,39.11,58.79
+P033,Accessories Product 03,Technology,Accessories,40.89,54.32
+P034,Accessories Product 04,Technology,Accessories,41.38,50.6
+P035,Accessories Product 05,Technology,Accessories,45.81,60.9
+P036,Accessories Product 06,Technology,Accessories,35.97,55.24
+P037,Accessories Product 07,Technology,Accessories,46.97,67.61
+P038,Accessories Product 08,Technology,Accessories,47.7,72.16
+P039,Accessories Product 09,Technology,Accessories,40.39,56.32
+P040,Accessories Product 10,Technology,Accessories,44.12,55.46
+P041,Paper Product 01,Office Supplies,Paper,12.7,15.18
+P042,Paper Product 02,Office Supplies,Paper,14.67,21.45
+P043,Paper Product 03,Office Supplies,Paper,15.12,19.3
+P044,Paper Product 04,Office Supplies,Paper,12.62,16.8
+P045,Paper Product 05,Office Supplies,Paper,14.16,21.49
+P046,Paper Product 06,Office Supplies,Paper,15.64,23.72
+P047,Paper Product 07,Office Supplies,Paper,15.53,23.85
+P048,Paper Product 08,Office Supplies,Paper,13.79,16.12
+P049,Paper Product 09,Office Supplies,Paper,12.08,15.78
+P050,Paper Product 10,Office Supplies,Paper,12.86,15.66
+P051,Binders Product 01,Office Supplies,Binders,10.66,13.09
+P052,Binders Product 02,Office Supplies,Binders,10.68,15.53
+P053,Binders Product 03,Office Supplies,Binders,9.72,13.81
+P054,Binders Product 04,Office Supplies,Binders,8.79,12.38
+P055,Binders Product 05,Office Supplies,Binders,8.36,12.75
+P056,Binders Product 06,Office Supplies,Binders,8.71,10.91
+P057,Binders Product 07,Office Supplies,Binders,9.93,14.03
+P058,Binders Product 08,Office Supplies,Binders,9.15,12.84
+P059,Binders Product 09,Office Supplies,Binders,8.28,11.75
+P060,Binders Product 10,Office Supplies,Binders,8.61,10.84
+P061,Storage Product 01,Office Supplies,Storage,31.07,39.86
+P062,Storage Product 02,Office Supplies,Storage,32.98,43.92
+P063,Storage Product 03,Office Supplies,Storage,31.39,38.52
+P064,Storage Product 04,Office Supplies,Storage,35.34,42.46
+P065,Storage Product 05,Office Supplies,Storage,37.0,56.52
+P066,Storage Product 06,Office Supplies,Storage,34.05,51.43
+P067,Storage Product 07,Office Supplies,Storage,30.36,35.44
+P068,Storage Product 08,Office Supplies,Storage,37.37,54.35
+P069,Storage Product 09,Office Supplies,Storage,38.73,45.42
+P070,Storage Product 10,Office Supplies,Storage,37.99,49.41
+P071,Writing Product 01,Office Supplies,Writing,6.53,7.96
+P072,Writing Product 02,Office Supplies,Writing,8.09,9.51
+P073,Writing Product 03,Office Supplies,Writing,7.71,10.84
+P074,Writing Product 04,Office Supplies,Writing,7.5,10.76
+P075,Writing Product 05,Office Supplies,Writing,7.78,9.52
+P076,Writing Product 06,Office Supplies,Writing,5.85,8.13
+P077,Writing Product 07,Office Supplies,Writing,6.65,7.98
+P078,Writing Product 08,Office Supplies,Writing,6.27,8.04
+P079,Writing Product 09,Office Supplies,Writing,6.01,7.05
+P080,Writing Product 10,Office Supplies,Writing,7.91,10.08
+P081,Chairs Product 01,Furniture,Chairs,116.42,178.79
+P082,Chairs Product 02,Furniture,Chairs,89.13,127.99
+P083,Chairs Product 03,Furniture,Chairs,104.03,148.37
+P084,Chairs Product 04,Furniture,Chairs,87.63,107.38
+P085,Chairs Product 05,Furniture,Chairs,86.99,121.06
+P086,Chairs Product 06,Furniture,Chairs,116.56,165.37
+P087,Chairs Product 07,Furniture,Chairs,107.6,166.12
+P088,Chairs Product 08,Furniture,Chairs,106.54,124.23
+P089,Chairs Product 09,Furniture,Chairs,112.68,146.02
+P090,Chairs Product 10,Furniture,Chairs,84.64,114.51
+P091,Desks Product 01,Furniture,Desks,247.59,310.21
+P092,Desks Product 02,Furniture,Desks,216.41,263.91
+P093,Desks Product 03,Furniture,Desks,186.04,219.94
+P094,Desks Product 04,Furniture,Desks,232.89,348.32
+P095,Desks Product 05,Furniture,Desks,192.03,242.98
+P096,Desks Product 06,Furniture,Desks,195.65,227.1
+P097,Desks Product 07,Furniture,Desks,220.74,315.65
+P098,Desks Product 08,Furniture,Desks,227.35,296.74
+P099,Desks Product 09,Furniture,Desks,220.85,262.29
+P100,Desks Product 10,Furniture,Desks,192.8,293.58
+P101,Bookcases Product 01,Furniture,Bookcases,159.67,242.55
+P102,Bookcases Product 02,Furniture,Bookcases,167.04,235.49
+P103,Bookcases Product 03,Furniture,Bookcases,167.59,220.66
+P104,Bookcases Product 04,Furniture,Bookcases,123.67,145.32
+P105,Bookcases Product 05,Furniture,Bookcases,128.7,152.91
+P106,Bookcases Product 06,Furniture,Bookcases,140.21,200.57
+P107,Bookcases Product 07,Furniture,Bookcases,161.06,223.24
+P108,Bookcases Product 08,Furniture,Bookcases,130.46,189.06
+P109,Bookcases Product 09,Furniture,Bookcases,140.35,162.13
+P110,Bookcases Product 10,Furniture,Bookcases,136.83,175.45
+P111,Tables Product 01,Furniture,Tables,172.45,254.32
+P112,Tables Product 02,Furniture,Tables,201.6,287.93
+P113,Tables Product 03,Furniture,Tables,164.34,242.09
+P114,Tables Product 04,Furniture,Tables,196.63,241.45
+P115,Tables Product 05,Furniture,Tables,194.89,261.82
+P116,Tables Product 06,Furniture,Tables,182.36,217.89
+P117,Tables Product 07,Furniture,Tables,187.1,222.64
+P118,Tables Product 08,Furniture,Tables,165.86,199.53
+P119,Tables Product 09,Furniture,Tables,213.25,269.54
+P120,Tables Product 10,Furniture,Tables,177.31,226.75

@@ -107,3 +107,122 @@ Total Profit = [Total Revenue] - [Total Cost]
 
 Profit Margin = DIVIDE([Total Profit], [Total Revenue], 0)
 ```
+
+---
+
+## Dashboard
+
+### Executive Overview
+
+![Executive Overview](Nova_Retail_Executive_Overview.png)
+
+### Product & Customer Analysis
+
+![Product & Customer Analysis](Nova_Retail_Product_Customer_Analysis.png)
+
+### Detailed Sales Analysis
+
+![Detailed Sales Analysis](Nova_Retail_Detailed_Sales_Analysis.png)
+
+---
+
+## Key Business Insights
+
+### Regional Performance
+
+The **South region** was the strongest revenue contributor at approximately **₹4.53M**, while the **East region** generated approximately **₹3.23M**.
+
+This indicates an opportunity to investigate the factors driving stronger performance in the South and identify whether similar strategies could improve performance in the East.
+
+### Revenue Trend
+
+Monthly revenue fluctuated throughout 2024 and 2025 without a clear sustained upward trend.
+
+This suggests that sales performance should be monitored over time rather than assuming continuous growth.
+
+### Product Performance
+
+Laptop products dominated the highest-revenue positions.
+
+The top three revenue-generating products were:
+
+- Laptops Product 01 — approximately ₹516K
+- Laptops Product 08 — approximately ₹472K
+- Laptops Product 09 — approximately ₹469K
+
+### Revenue vs Profitability
+
+The products generating the highest revenue were not the same products generating the highest profit.
+
+This highlights why product performance should be evaluated using both revenue and profitability rather than sales alone.
+
+### Margin Risk
+
+Laptops Product 09 generated approximately **₹468.5K in revenue**, but its profit margin was only **11%**.
+
+This makes it a potential candidate for further investigation into pricing, discounting, and cost structure.
+
+---
+
+## Recommendations
+
+Based on the analysis, management could:
+
+- Investigate the factors contributing to stronger South-region performance.
+- Explore opportunities to improve performance in the East.
+- Monitor high-revenue products with relatively low profit margins.
+- Review pricing, discounting, and cost structures for low-margin products.
+- Evaluate products using both revenue and profit metrics.
+- Monitor monthly performance to identify recurring trends and fluctuations.
+
+---
+
+## Tools & Skills Demonstrated
+
+### Power BI
+
+- Dashboard development
+- Interactive visualisations
+- Slicers and visual interactions
+- Report design
+
+### Power Query
+
+- Data cleaning
+- Duplicate removal
+- Data transformation
+- Text standardisation
+- Data type management
+
+### DAX
+
+- Measures
+- Aggregations
+- `SUM`
+- `DISTINCTCOUNT`
+- `CALCULATE`
+- `DIVIDE`
+- Profitability calculations
+
+### Data Modelling
+
+- Star schema
+- Fact and dimension tables
+- One-to-many relationships
+- Calendar table
+
+### Business Analysis
+
+- Revenue analysis
+- Profitability analysis
+- Regional analysis
+- Product analysis
+- Customer analysis
+- Salesperson performance
+
+---
+
+## Disclaimer
+
+This project uses **synthetic data** created for portfolio and learning purposes. Nova Retail is a fictional business.
+

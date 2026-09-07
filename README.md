@@ -2,7 +2,7 @@
 
 ## Project Overview
 
-Nova Retail is a fictional Indian retail business created for portfolio and analytical practice.
+Nova Retail is a fictional retail business created for portfolio and analytical practice.
 
 This project transforms raw transactional sales data into an interactive three-page Power BI dashboard for analysing sales performance, profitability, customers, products, regions, and salespeople.
 
@@ -88,7 +88,7 @@ Contains transactional information including:
 - **Salespersons**
 - **Calendar**
 
-The dimension tables have one-to-many relationships with the `Sales_Raw` fact table.
+The dimension tables are connected to the `Sales_Raw` fact table through one-to-many relationships.
 
 ---
 
@@ -96,17 +96,11 @@ The dimension tables have one-to-many relationships with the `Sales_Raw` fact ta
 
 The main measures created for the analysis were:
 
-```DAX
-Total Revenue = SUM(Sales_Raw[Sales])
-
-Total Cost = SUM(Sales_Raw[Cost])
-
-Total Orders = DISTINCTCOUNT(Sales_Raw[OrderID])
-
-Total Profit = [Total Revenue] - [Total Cost]
-
-Profit Margin = DIVIDE([Total Profit], [Total Revenue], 0)
-```
+- `Total Revenue = SUM(Sales_Raw[Sales])`
+- `Total Cost = SUM(Sales_Raw[Cost])`
+- `Total Orders = DISTINCTCOUNT(Sales_Raw[OrderID])`
+- `Total Profit = [Total Revenue] - [Total Cost]`
+- `Profit Margin = DIVIDE([Total Profit], [Total Revenue], 0)`
 
 ---
 
@@ -114,15 +108,15 @@ Profit Margin = DIVIDE([Total Profit], [Total Revenue], 0)
 
 ### Executive Overview
 
-![Executive Overview](Nova_Retail_Executive_Overview.png)
+![Executive Overview](Executive_Overview.png)
 
 ### Product & Customer Analysis
 
-![Product & Customer Analysis](Nova_Retail_Product_Customer_Analysis.png)
+![Product & Customer Analysis](Product_Customer_Analysis.png)
 
 ### Detailed Sales Analysis
 
-![Detailed Sales Analysis](Nova_Retail_Detailed_Sales_Analysis.png)
+![Detailed Sales Analysis](Detailed_Sales_Analysis.png)
 
 ---
 
@@ -130,7 +124,7 @@ Profit Margin = DIVIDE([Total Profit], [Total Revenue], 0)
 
 ### Regional Performance
 
-The **South region** was the strongest revenue contributor at approximately **₹4.53M**, while the **East region** generated approximately **₹3.23M**.
+The **South region** was the strongest revenue contributor at approximately **$4.53M**, while the **East region** generated approximately **$3.23M**.
 
 This indicates an opportunity to investigate the factors driving stronger performance in the South and identify whether similar strategies could improve performance in the East.
 
@@ -146,9 +140,9 @@ Laptop products dominated the highest-revenue positions.
 
 The top three revenue-generating products were:
 
-- Laptops Product 01 — approximately ₹516K
-- Laptops Product 08 — approximately ₹472K
-- Laptops Product 09 — approximately ₹469K
+- Laptops Product 01 — approximately $516K
+- Laptops Product 08 — approximately $472K
+- Laptops Product 09 — approximately $469K
 
 ### Revenue vs Profitability
 
@@ -158,7 +152,7 @@ This highlights why product performance should be evaluated using both revenue a
 
 ### Margin Risk
 
-Laptops Product 09 generated approximately **₹468.5K in revenue**, but its profit margin was only **11%**.
+Laptops Product 09 generated approximately **$468.5K in revenue**, but its profit margin was only **11%**.
 
 This makes it a potential candidate for further investigation into pricing, discounting, and cost structure.
 
@@ -225,4 +219,3 @@ Based on the analysis, management could:
 ## Disclaimer
 
 This project uses **synthetic data** created for portfolio and learning purposes. Nova Retail is a fictional business.
-
